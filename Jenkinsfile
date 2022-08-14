@@ -8,7 +8,7 @@ pipeline {
 
   stage ('Build') {
     steps {
-       cd Jenkins
+    //   cd Jenkins
     }
 
   }
