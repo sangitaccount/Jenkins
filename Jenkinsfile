@@ -9,6 +9,7 @@ pipeline {
   stage ('Build') {
     steps {
     //   cd Jenkins
+    echo "Testing"
     }
 
   }
